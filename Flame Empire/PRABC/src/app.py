@@ -72,7 +72,7 @@ def preprocessDataAndPredict(age, relative, age_menarche, age_first_birth, menop
     #load trained model
     trained_model = joblib.load(file)
     
-    #predict
+    #prediction
     #prediction = trained_model.predict(test_data)
     prediction = trained_model.predict_proba(test_data)
     print(prediction)
