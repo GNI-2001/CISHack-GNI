@@ -1,0 +1,26 @@
+{
+  "name": "interactivelearning",
+  "version": "1.0.0",
+  "description": "A web application that provides community support to create free interactive learning courses for the learners in the community.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Krishnasai3cks/CISHack-GNI.git"
+  },
+  "keywords": [
+    "github",
+    "gni",
+    "hackathon",
+    "interactive",
+    "learning"
+  ],
+  "author": "Polymaths",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Krishnasai3cks/CISHack-GNI/issues"
+  },
+  "homepage": "https://github.com/Krishnasai3cks/CISHack-GNI#readme"
+}
