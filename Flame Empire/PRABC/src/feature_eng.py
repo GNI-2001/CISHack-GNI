@@ -24,7 +24,7 @@ def age_group_5_years(age_value):
     elif 80 <= age_value <= 84:
         return 12
     return 13
-  
+  #bmigroups
 def bmi_group(weight_kg, height_cm):
     bmi = (weight_kg*10000.0)//(height_cm**2)
     bmi = round(bmi, 2)
