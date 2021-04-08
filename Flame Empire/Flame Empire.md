@@ -6,13 +6,50 @@
 
 Breast cancer is the most common form of cancer in women, accounting for 14% of all cancers in Indian women. About 90% of breast cancer patients live for at least 5 years after the cancer is diagnosed. When the breast cancer is detected early, the chance of survival is much higher. So, we are developing a tool for Calculating the Risk of Attaining Breast Cancer. The tool is supposedly going to help women understand their Risk of Attaining Breast Cancer and leading to understanding the special need of care.
 
-# Download PRABC based Informatic Application For
+# You Can Also Download PRABC Based Informatic Application For
 
-<a href="https://drive.google.com/file/d/16pMI7PUUk8kQ1tvTthpOamZqDKCZMkmA/view?usp=sharing"><img src="https://pngimg.com/uploads/android_logo/android_logo_PNG17.png" width="85" height="100"/></a>|    |<a href="https://drive.google.com/drive/folders/1jD_Teb-Q4UIYSsu9Gb2d52QgdoyI7XVL?usp=sharing"><img src="http://www.pngall.com/wp-content/uploads/4/MacOS-PNG-Download-Image.png" width="100" height="100"/></a>|    |<a href="https://drive.google.com/file/d/1GJ8C0EGuod8kexmAzOu4jiabeTStKztF/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="115" height="95"/></a>
+<a href="https://drive.google.com/file/d/16pMI7PUUk8kQ1tvTthpOamZqDKCZMkmA/view?usp=sharing"><img src="https://pngimg.com/uploads/android_logo/android_logo_PNG17.png" width="85" height="100"/></a>‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎<a href="https://drive.google.com/drive/folders/1jD_Teb-Q4UIYSsu9Gb2d52QgdoyI7XVL?usp=sharing"><img src="http://www.pngall.com/wp-content/uploads/4/MacOS-PNG-Download-Image.png" width="100" height="100"/></a>‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎<a href="https://drive.google.com/file/d/1GJ8C0EGuod8kexmAzOu4jiabeTStKztF/view?usp=sharing"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="115" height="95"/></a>
 
 # Tech Stack:
 
 HTML, CSS, Python, Flask, D3.js, Excel, Java & Kotlin
+
+ Folder static elements
+<h1>Contents of the Project Directory</h1>
+<p>The following is the directory branching contents of the Project</p>
+<ul>
+  <li>src (Source Files)
+    <ul>
+      <li>static (Static components)</li>
+      <ul>
+      <li>CSV of Age</li>
+        <li>CSV of Birth</li>
+        <li>Image Assets</li>
+      </ul>
+      </li>
+  </li>
+  <li>templetes (html)</li>
+      <ul>
+      <li>Home</li>
+        <li>Layout</li>
+        <li>Predict (Prediction Page)</li>
+      </ul>
+      </li>
+        <li>app.py (The application)</li>
+  <li>feature_eng.py(Feature Engineering i.e., Applied Machine Learning)</li>
+        <li>randomforest_model.pkl (Generation of arbitary Forest Model which is trained as a classifier [A Pickle file is generated])</li>
+    </ul>
+  </li>
+  <li> venv (Virtual Environment)</li>
+  <ul>
+    <li>Lib (Libraries Involved)</li>
+    <li>Scripts & Configuration Files</li>
+  </ul>
+  <li>Image of Model In Work & Documentation files</li>
+  </ul>
+
+
+  
 
 # Positive And Unique Solutions
 
@@ -20,7 +57,9 @@ The idea is to estimate the chance of developing Breast Cancer. Providing advanc
 
 <img src="https://github.com/pavanleo/PRABC/blob/master/screen1.png"/>
 
-# Prerequisites
+# Hosting on localhost
+
+### Prerequisites
 
 What things you need to install the software and how to install them
 
@@ -37,12 +76,15 @@ pip install numpy
 
 ```
 
-
-# Run
+### Run
 
 ```python
 python app.py
 ```
+
+# Working Model
+[![Working Model - PRABC: Predicting the Risk of Attaining Brest Cancer](http://img.youtube.com/vi/HsBgrsJnPR8/0.jpg)](http://www.youtube.com/watch?v=HsBgrsJnPR8 "Working Model - PRABC: Predicting the Risk of Attaining Brest Cancer")
+
 
 # References 
 
