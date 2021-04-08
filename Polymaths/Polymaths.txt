@@ -1,0 +1,53 @@
+A Community Based Online Interactive Learning Application
+==========================================================
+To make a web application which provides an interface and  required technology for the community to create free interactive courses to the learners. A website is more feasible because it is reachable to everyone with internet and a web browser. This is going to be simple and fun to learn for beginners and also to intermediates who want to learn how to contribute to online projects. ​
+
+This is very easy to use: 
+- You have a nice user interface ready if you want to create new course. A very helpful way to make new contributers begin. 
+- Easy to navigate and learn for beginners.
+
+What is interactive learning?​
+-----------------------------
+Interactive learning is a type of learning needs involvement of the student. The best way to involve the student is to make them a part of the learning process instead of video lectures, classroom teaching etc.,. ​
+
+Interactive teaching is a way of teaching which will benefit both the teacher and the student because even the teacher starts as a beginner. 
+While interactive learning also means asking doubts to the faculty but this does not happen often. Hence with the use of technology we can make the endless learning process more interactive, simple, efficient, cost effective and easily accessible around the world.
+
+Contents of Project Directory:
+------------------------------
+- Package.json file : This file has metadata that describes the dependencies, behavior, deployment etc., of the project. 
+- Static files : This folder contains all the css and javascript files related to the user interface.
+- Media files: This folder contains images videos etc related to the courses.
+- Public files: This folder contains the HTML files or template engines for backend.
+- routes file: This files holds the routing system of the appliation.
+- server file: The first file to execute which holds the complete project directory together.
+- auth file: Handles the github login authentication code.
+
+Features:
+---------
+
+- Support for a large community.
+- Reduce the amount of time taken to create a course.
+- No need of any installation. Just open the website and start learning.
+- Login feature available.
+
+Usage:
+------
+- Open the link to the website.
+- Login with github.
+- Choose your favorite languages.
+- Select a course (or) create your own course.
+- Register for a course.
+
+Steps to host the project locally:
+----------------------------------
+- Open the github repository below.
+- Fork the repository and clone it locally.
+- Open terminal from the project folder and type `npm start` to run the project in your localhost.
+
+Contribute:
+-----------
+- You can contribute to the project using the user interface available.
+- But you can also contribute to the project code itself by using github.
+    - Github Issues: github.com/Krishnasai3cks/Interactive/issues
+    - Github Source Code: github.com/Krishnasai3cks/Interactive
