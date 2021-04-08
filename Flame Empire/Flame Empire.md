@@ -57,7 +57,7 @@ The idea is to estimate the chance of developing Breast Cancer. Providing advanc
 
 # Working Model
 
-Click on image to check out the video of Working Model
+Click on Image to check out the Video of Working Model
 
 <a href="https://youtu.be/HsBgrsJnPR8"><img src="https://github.com/pavanleo/PRABC/blob/master/screen1.png"/></a>
 
