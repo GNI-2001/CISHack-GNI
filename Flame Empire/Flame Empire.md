@@ -1,6 +1,6 @@
 # Code Innovation Series - Gurunanak Institute Of Technology 2021
 
-<img src="https://github.com/pavanleo/PRABC/blob/master/src/static/images/pink_ribbob.png" width="128" height="128"/>
+<img src="https://github.com/pavanbadempet/CISHack-GNI/blob/main/Flame%20Empire/PRABC/src/static/images/logo.png" width="128" height="128"/>
 
 <h1>PRABC: Predicting the Risk of Attaining Breast Cancer</h1>
 
@@ -59,7 +59,7 @@ The idea is to estimate the chance of developing Breast Cancer. Providing advanc
 
 Click on Image to check out the Video of Working Model
 
-<a href="https://youtu.be/HsBgrsJnPR8"><img src="https://github.com/pavanleo/PRABC/blob/master/screen1.png"/></a>
+<a href="https://youtu.be/HsBgrsJnPR8"><img src="https://github.com/pavanbadempet/CISHack-GNI/blob/main/Flame%20Empire/PRABC/Image.png"/></a>
 
 # Hosting on localhost
 
