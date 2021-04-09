@@ -23,6 +23,6 @@ We use docker to create this kind of setup as because we are in the agile world.
  After download images we need to run a simple command: docker-compose up
  Make sure run the above command in the same folder where your YML file exist 
  
- Now, just go to your browser and put url localhost:8080
+ Now, just go to your browser and put url localhost:82
 
 We created a video where we show you how we can setup our own cloud in local system : https://drive.google.com/file/d/1_JW23ufYx0fFB01YDPd2wxZfAp9QDBAr/view?usp=sharing
