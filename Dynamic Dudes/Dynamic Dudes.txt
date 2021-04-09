@@ -1,1 +1,27 @@
+# Description of project
+
+We create a web app where anyone can store and fetch their data which is connected locally with us just like LAN connectivity. We can use this product to store our confidential papers which we don't want to store in public storage. Through this, we create something like our personal drive which can only accessible by our LAN users. It's not only beneficial for the education field but nearly every field can use this type of product in our local environment. Like medical field can use this to store our patient's data and because it's locally available so we fetch the data very rapidly as compared to the internet.
+
+
+We use docker to create this kind of setup as because we are in the agile world. we need to deploy as soon as possible. With the use of docker we can deploy our setup in just some seconds. 
+
+# Pre-requisite for setup this in our own local setup
+
+ 1. We need a docker installed
+ 2. We need docker-compose software installed 
+ 
+ 
+ # Content needed
+ We only need a YML file where we write code of own setup. So, in just one click our overall environment is ready
+ 
+ 
+ If you want to use same setup so please first you download the docker images
+   
+ 1. owncloud       # Use Command: docker pull owncloud
+ 2. mysql:5.7      # Use Command: docker pull mysql:5.7
+ 
+ After download images we need to run a simple command: docker-compose up
+ Make sure run the above command in the same folder where your YML file exist 
+ 
+ Now, just go to your browser and put url localhost:8080
 
